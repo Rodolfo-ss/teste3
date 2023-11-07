@@ -29,9 +29,9 @@ console.log(`${reduceInput}`)
 //Questao 2 - O objetivo é que o resultado acima seja uma string que seja configuravel.
 
 
+const inReverse = reduceInput.reverse()
 
-
-
+console.log(inReverse)
 
 
 
